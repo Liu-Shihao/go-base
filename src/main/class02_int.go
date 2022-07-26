@@ -94,7 +94,7 @@ func main() {
 	fmt.Println("-----------字符串类型---------------")
 	var str string = "你好"
 	fmt.Println(str)
-	s1 := "hello go!"
+	s1 := "ahello go!"
 	fmt.Println(s1)
 	//字符串是不可变的 ，字符串一旦定义好，其中的值不能改变
 	s1 = "let's go"
@@ -105,7 +105,7 @@ func main() {
 	fmt.Println("-----------字符串类型---------------")
 	var str string = "你好"
 	fmt.Println(str)
-	s1 := "hello go!"
+	s1 := "ahello go!"
 	fmt.Println(s1)
 	//字符串是不可变的 ，字符串一旦定义好，其中的值不能改变
 	s1 = "let's go"
